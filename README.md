@@ -30,7 +30,7 @@ The website includes the following pages, each assigned to a specific team membe
 |                    |                   |
 | User Profile       | Tharun Devaraja   |
 | Sitemap            | Tharun Devaraja   |
-| **All Members** | |
+|                    |                   |
 | Content Page       | All Members      |
 | Page Editor        | All Members      |
 | Validation Page    | All Members      |
